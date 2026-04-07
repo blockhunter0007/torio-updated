@@ -1,0 +1,81 @@
+{
+    "keybinds": {
+        "brightness": "g",
+        "zoom": "c",
+        "sprint": "p",
+        "jump": "space",
+        "autoclicker_left": "mouse_left",
+        "autoclicker_right": "x",
+        "window_visibility": "right shift"
+    },
+    "feature_states": {
+        "brightness": true,
+        "zoom": true,
+        "sprint": true,
+        "coordinates": true,
+        "speed": false,
+        "reach": false,
+        "autoclicker": true,
+        "antiknockback": true,
+        "hitbox": true,
+        "streamprotect": false,
+        "nohurtcam": false,
+        "truesight": false,
+        "timechanger": false,
+        "fastitem": false,
+        "systemtray": false,
+        "aimassist": false,
+        "jumpreset": true,
+        "triggerbot": false,
+        "microaim": true
+    },
+    "feature_settings": {
+        "speed": {
+            "speed": 1.0499999999999998
+        },
+        "reach": {
+            "reach": 3.12
+        },
+        "autoclicker": {
+            "left_cps": 13.399999999999999,
+            "right_cps": 20.0,
+            "left_enabled": true,
+            "right_enabled": true,
+            "jitter_enabled": true,
+            "jitter_strength": 1.6
+        },
+        "hitbox": {
+            "hitbox": 1.08
+        },
+        "antiknockback": {
+            "xz": 0.99,
+            "y": 0.98
+        },
+        "timechanger": {
+            "time": 1000,
+            "preset": "Day"
+        },
+        "jumpreset": {
+            "timing": 0.36
+        },
+        "aimassist": {
+            "sensitivity": 0.29,
+            "max_dist": 5.3,
+            "aim_only_on_autoclicker": true,
+            "aim_player": true,
+            "aim_other": false,
+            "y_offset_player": 0.8,
+            "y_offset_other": 0.8
+        },
+        "zoom": {
+            "smooth_animation": false
+        },
+        "triggerbot": {
+            "mode": "auto_click",
+            "auto_cps": 13.4
+        },
+        "microaim": {
+            "pulse_duration": 0.075
+        }
+    }
+}
