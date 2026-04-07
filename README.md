@@ -51,7 +51,7 @@ git clone https://github.com/kukentyan/torio-master.git
 cd torio-master
 ```
 
-###2. Install Dependencies
+### 2. Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
