@@ -1,7 +1,5 @@
 # Torio Ghost Client
-**Torio Ghost Client source code**
-
-A custom Minecraft Bedrock Edition Client (Ghost Client) with various features.
+Torio Ghost client Updated is an updated version of the original python version
 
 **↓↓This page contains pre-built exe files:↓↓**
 
@@ -23,6 +21,7 @@ All specific changes and modified files contributed by **blockhunter0007** are d
 
 Full legal text: [LICENSE](LICENSE) | Official details: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
-
+## Original repo
+https://github.com/kukentyan/torio-master
 ## Features
 N/A
