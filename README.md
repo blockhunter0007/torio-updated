@@ -5,7 +5,7 @@ A custom Minecraft Bedrock Edition Client (Ghost Client) with various features.
 
 **↓↓This page contains pre-built exe files:↓↓**
 
-soo 
+soon
 
 ## License
 
